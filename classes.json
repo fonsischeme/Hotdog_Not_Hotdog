@@ -1,0 +1,4 @@
+{
+    "hotdog": ["hotdogs", "hotdog", "hot_dog", "bratwurst", "sausage"],
+    "not_hotdog": ["burgers", "hamburger", "bbq", "barbecue"]
+}
