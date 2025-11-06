@@ -18,8 +18,6 @@ It’s a lighthearted but powerful exploration of:
 
 ## 🏗️ Architecture
 
-![Model Architecture](docs/architecture_diagram.png)
-
 **Pipeline Summary**
 1. Image ingestion & preprocessing  
 2. Data augmentation (flip, rotation, normalization)  
